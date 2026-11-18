@@ -1,0 +1,6 @@
+{
+  "name": "Flying Stickman Ninja",
+  "description": "Fast-paced 2D stickman ninja action game. Slice incoming numbered shadow enemies with your glowing cyan energy blade before they breach your guard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
